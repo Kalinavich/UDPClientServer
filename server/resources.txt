@@ -1,0 +1,5 @@
+resource1 Hello
+resource2 World
+resource3 Thank you
+YA Yakov
+IL Ilya
