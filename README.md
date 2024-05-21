@@ -7,6 +7,7 @@
 **Client**
 * [cd ./client]
 * [go build]
+  
 **Server**
 * [cd ./server]
 * [go build]
@@ -14,7 +15,8 @@
 ## Running:
 **Server**
 * [./server PORT]
+  
 **Client**
 * [./client HOSTNAME:PORT REQUESTED_RESOURCE]
-
+  
 **Have a good chat with the server! 😊**
